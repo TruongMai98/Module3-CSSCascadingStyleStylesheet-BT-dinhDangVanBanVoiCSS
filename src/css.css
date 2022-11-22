@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    text-decoration-line: overline;
+    text-transform: uppercase;
+    color: red;
+}
+
+p {
+    text-align: left;
+    font-family: Tahoma, Verdana, sans-serif;
+    padding: 2% 20% 10% 20%;
+}
